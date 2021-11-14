@@ -7,7 +7,7 @@
 
 # [ info ]
 
-+ WurstPlusThree doesn't get updates on github, and no one cares about beta and also they made it public so i just made a source and share it. It is not buildable but if you want u can add the modules to original source.
++ WurstPlusThree doesn't get updates on github and no one cares about beta and also they made it public so i just made a source and share it. It is not buildable but if you want u can add the modules to original source.
 
 </div>
 
